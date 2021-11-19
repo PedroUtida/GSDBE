@@ -22,8 +22,8 @@ o prato e quanto na media custaria na preparação do prato
 Durante o processo de criação utilizamos da spring para se criar um arquivo MVN, com dependencias, que foram aumentando conforme a criação, e o eclipse a princiapl ferramenta
 utilizada em todo o processo de criação do projeto.
 
-*[EclipseIDE](https://www.eclipse.org/downloads/packages/release/mars/r/eclipse-ide-java-ee-developers)
-*[Spring](https://start.spring.io)
+* [EclipseIDE](https://www.eclipse.org/downloads/packages/release/mars/r/eclipse-ide-java-ee-developers)
+* [Spring](https://start.spring.io)
 
 ## Link de vídeo Modelo final projeto
 
