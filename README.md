@@ -27,4 +27,4 @@ utilizada em todo o processo de criação do projeto.
 
 ## Link de vídeo Modelo final projeto
 
-[Video do projeto](https://youtu.be/iZKIIHW5ae0)
+[Video do projeto](https://youtu.be/JPRtB9U0DgQ)
